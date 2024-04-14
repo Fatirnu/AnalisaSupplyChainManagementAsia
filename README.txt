@@ -2,21 +2,18 @@ Data Cleaninng untuk analisa Supply Chain Management
 
 A. Latar Belakang
 
-Terdapat perusahaan yang menjual berbagai barang dan mendistribusikan penjualan dalam area asia, perusahaan tersebut ingin mengetahui analisis dari penjualan untuk barang yang memiliki keuntungan tertinggi. Jika sudah mengetahui barang yang memiliki keuntungan tertinggi perusahaan tersebut ingin menjual produk baru dan menargetkan produk baru. tersebut pada daerah yang memiliki minat tinggi pada produk baru tersebut.
+Terdapat perusahaan yang menjual berbagai barang dan mendistribusikan penjualan dalam area asia, perusahaan tersebut ingin mengetahui analisis dari penjualan untuk barang yang memiliki keuntungan tertinggi. Jika sudah mengetahui barang yang memiliki keuntungan tertinggi perusahaan tersebut ingin menjual produk baru dan menargetkan produk baru tersebut pada daerah yang memiliki minat tinggi pada produk baru tersebut.
 
 B. Objektif
 
 Dari dataset tersebut berikut ini adalah beberapa objektif yang dapat dilakukan:
-
-1. Mencari produk mana yang memiliki penjualan terbanyak
-
-2. Menentukan daerah mana yang yang memiliki keuntungan terbanyak dari produk teratas
-
-3. Ketika ingin menjual barang baru, jenis barang seperti apa dan daerah mana yang memiliki potensi penjualan tertinggi
+1. Mencari produk mana yang memiliki penjualan terbanyak.
+2. Menentukan daerah mana yang yang memiliki keuntungan terbanyak dari produk teratas.
+3. Menangani kerugian.
+4. Mencari tau apa hal yang membuat kerugian pada penjualan.
 
 C. Goals
-
-Tujuan dari menganalisis dataset ini yaitu untuk mencari data penjualan pada region asia, sehingga dengan itu dapat melakukan rekomendasi untuk meningkatkan penjualan pada waktu berikut nya
+Tujuan dari menganalisis dataset ini yaitu untuk mencari data penjualan pada region asia, bagaimana penjualan dalam ASIA, apa yang menyebabkan penjualan pada ASIA itu tinggi dan apa yang menyebabkan profit turun. Jika sudah mengetahui hal tersebut dapat dilakukan penanganan apa yang harus dilakukan untuk mengurangi kerugian penjualan.
 
 D. penjelasan Dataset
 
